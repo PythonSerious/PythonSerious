@@ -1,6 +1,15 @@
 <h2> Salut! I'm Python. :wave:</h2>
 
+<h3> 📖 &nbsp;About Me</h3>
+
+- Verifed Bot developer [@Discord](https://discord.com/users/533069055784124437)
+- Lead Software engineer [@Square](https://squarebot.app)
+
+
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
+
+
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -15,9 +24,12 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PythonSerious&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PythonSerious&theme=buefy&layout=compact" />
-</a>
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=PythonSerious&theme=buefy&show_icons=true" width="450" /> 
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PythonSerious&theme=buefy&layout=compact" width="450" />
+</p>
+
+
 
 <br/>

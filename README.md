@@ -1,4 +1,8 @@
+
+
 <h2> Salut! I'm Python. :wave:</h2>
+<img width=400px height=200px align="right" src="https://lanyard.cnrad.dev/api/533069055784124437">
+
 
 <h3> 📖 &nbsp;About Me</h3>
 

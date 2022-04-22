@@ -7,7 +7,7 @@
 <h3> 📖 &nbsp;About Me</h3>
 
 - Verifed Bot developer [@Discord](https://discord.com/users/533069055784124437)
-- Lead Software engineer [@Square](https://squarebot.app)
+- Software engineer [@ERR](https://www.roblox.com/groups/4824823/Emergency-Responders-Roleplay#!/about)
 
 
 
